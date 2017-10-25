@@ -1,5 +1,8 @@
 package a2_16200514;
 
+// The testing module here was provided by Michael O'Mahony - the lecturer for the module during which this
+// project was conducted. 
+
 public class Test {
 	public static void main(String[] args) {
 		// Create student objects
